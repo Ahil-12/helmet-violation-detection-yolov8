@@ -141,7 +141,7 @@ Install the required Python packages before running the project.
 pip install ultralytics opencv-python pandas reportlab
 ```
 
-##Running the Project
+## Running the Project
 
 Place the required model file in the project directory:
 
@@ -155,7 +155,7 @@ python helmet_tracker.py
 
 The program can then be used to process the required image or video input.
 
-##Limitations
+## Limitations
 
 The accuracy of the system can be affected by:
 
@@ -170,7 +170,7 @@ Variations in helmet appearance
 
 The system uses a pretrained model, and therefore its performance depends on the data and conditions represented during model training.
 
-Future Scope
+## Future Scope
 
 The project can be further improved by:
 
