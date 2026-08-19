@@ -145,13 +145,15 @@ pip install ultralytics opencv-python pandas reportlab
 
 Place the required model file in the project directory:
 
+```text
 best.pt
-
+```
 Run the required Python file from the project directory.
 
 Example:
-
+```
 python helmet_tracker.py
+```
 
 The program can then be used to process the required image or video input.
 
